@@ -1,0 +1,23 @@
+Inject==4.3.1
+django-cors-headers==3.7.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+testresources==2.0.1
+uritemplate==3.0.1
+urllib3==1.26.4
+uWSGI==2.0.19.1
+Werkzeug==1.0.1
+httplib2>=0.15.0
+requests==2.25.1
+mongoengine ==0.22.1
+envyaml ==0.2060
+dataclasses-json==0.5.4
+python-keycloak==0.25.0
+Django==3.2.4
+djangorestframework==3.12.4
+jsonschema==4.1.2
+python-dotenv==0.19.2
+django-cors-headers==3.7.0
+grpcio==1.46.3
+grpcio-tools==1.46.3
+redis==4.3.4
